@@ -11,6 +11,10 @@ of these products, it is nearly impossible for consumers to keep track of such i
 Mindful pick is a application which takes input from user as images and then instantly provides detailed
 ratings and reviews from various sources.
 
+### Requirement specifications
+
+
+
 ### Setting up
 1. Install python in your system. You can visit https://www.python.org/downloads/ and download the required version.
 2. Download the zip file(Mindful_Pick_Nawabs_2024.zip) and extract it.
