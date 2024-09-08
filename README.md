@@ -6,8 +6,7 @@ animals etc.
 
 Unfortunately, many mainstream FMCGs flooding the market are neither healthy nor eco-friendly, often con-
 tributing to environmental degradation. Despite frequent reports on social media about the harmful effects
-of these products, it is nearly impossible for consumers to keep track of such information when making pur-
-chasing decisions.
+of these products, it is nearly impossible for consumers to keep track of such information when making purchasing decisions.
 
 ###
 
