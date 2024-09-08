@@ -8,7 +8,8 @@ Unfortunately, many mainstream FMCGs flooding the market are neither healthy nor
 tributing to environmental degradation. Despite frequent reports on social media about the harmful effects
 of these products, it is nearly impossible for consumers to keep track of such information when making purchasing decisions.
 
-###
+Mindful pick is a application which takes input from user as images and then instantly provides detailed
+ratings and reviews from various sources.
 
 ### Setting up
 1. Install python in your system. You can visit https://www.python.org/downloads/ and download the required version.
