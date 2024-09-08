@@ -18,10 +18,12 @@ ratings and reviews from various sources.
 2. Minimum system requirements are: 1 GHz single-core processor, 2 GB of RAM, 10 GB of free disk space
 
 ### Setting up
-1. Install python in your system. You can visit https://www.python.org/downloads/ and download the required version.
+1. Install python in your system if not installed already. You can visit https://www.python.org/downloads/ and download the required version.
 2. Download the zip file(Mindful_Pick_Nawabs_2024.zip) and extract it.
-3. Install the required libraries as mentioned below
-4. Verify the files are properly downloaded by running sample.py.
+3. Install the required libraries by running the below commands
+>
+>
+5. Verify the files are properly downloaded by running sample.py.
 
 ### Running the application
 1. First transfer the target images which will be used to search for reviews to \img folder.
