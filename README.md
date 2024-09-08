@@ -12,8 +12,10 @@ Mindful pick is a application which takes input from user as images and then ins
 ratings and reviews from various sources.
 
 ### Requirement specifications
-
-
+1. Mindful Pick can be used on the following operating systems:
+   1. Microsoft Windows 11, 10, 8.1, 7 for x86-64 (64-bit) processor architecture
+   2. Linux for x86-64 (64-bit) and ARMv8-A (64-bit) processor architectures with a glibc version greater or equal to 2.18
+2. Minimum system requirements are: 1 GHz single-core processor, 2 GB of RAM, 10 GB of free disk space
 
 ### Setting up
 1. Install python in your system. You can visit https://www.python.org/downloads/ and download the required version.
