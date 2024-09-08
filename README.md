@@ -9,5 +9,5 @@
 2. Open command prompt in the main app folder.
 3. Type the following code to run the app
 > py application.py --image "image_name.file_type"
-4. You will be now presented with the review
+4. You will now be presented with the reviews.
 
