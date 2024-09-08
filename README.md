@@ -23,7 +23,7 @@ ratings and reviews from various sources.
 3. Install the required libraries by running the below commands
 >
 >
-5. Verify the files are properly downloaded by running sample.py.
+4. Verify the files are properly downloaded by running sample.py.
 
 ### Running the application
 1. First transfer the target images which will be used to search for reviews to \img folder.
