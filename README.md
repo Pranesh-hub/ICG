@@ -22,3 +22,4 @@ of these products, it is nearly impossible for consumers to keep track of such i
 > py application.py --image "image_name.file_type"
 4. You will now be presented with the reviews.
 
+### What's Under the Hood
